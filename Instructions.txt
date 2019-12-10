@@ -1,0 +1,9 @@
+First, click "Kernel" and select "Restart & Run All" to make sure everything is reset.
+Type in "Aless" for the first chat box and press Enter on your keyboard.
+Type in "Good" into the next chat box and press Enter on your keyboard.
+Type in "No" into the next chat box and press Enter on your keyboard.
+Type in "No" into the next chat box and press Enter on your keyboard.
+Follow the advice output provided!
+Type in "No" into the next chat box and press Enter on your keyboard.
+Type in "Provide more help!" into the next chat box and press Enter on your keyboard.
+Type in "I don't think so." into the next chat box and press Enter on your keyboard.
